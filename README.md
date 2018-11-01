@@ -50,8 +50,8 @@ If you open the folder you can notice that there's a new file called **lecture.d
 2. Call this function.
 
 3. * Open the python shell (by running `python` in your terminal) 
-   * Import the `delete_product` function (`from databases import delete_product`) 
-   * Call the `delete_prodduct` function with the inputs you defined in the databases.py file
+   * Import the `update_product` function (`from databases import update_product`) 
+   * Call the `update_product` function with the inputs you defined in the databases.py file
    * print the database using this command line **python print_database.py lecture.db** to check if you successfully updated the object.
 
 ### Extra: Add a maximium for price
